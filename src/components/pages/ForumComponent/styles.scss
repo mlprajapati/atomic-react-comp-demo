@@ -1,0 +1,27 @@
+.forum-container {
+  background-color: #454545;
+  height: 100vh;
+}
+
+.thread-list {
+  color: #ffbd2d;
+  font-size: 16px;
+  text-align: left;
+  font-weight: normal;
+  height: 80px;
+  padding: 10px;
+  width: 100%;
+  margin: 5px 0px;
+  border: 1px solid #fff;
+}
+
+.thread-details {
+  position: relative;
+  padding-left: 10px;
+  margin-left: 10px;
+  cursor: pointer;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}

@@ -1,0 +1,307 @@
+{
+    "children": [
+        {
+            "name": "Mobile, Accessories and Smart Devices",
+            "children": [
+                {
+                    "name": "Smartphones",
+                    "children": [
+                        {
+                            "name": "Xperia XZ2",
+                            "serialNo": "018",
+                            "orderNo": "18",
+                            "path": "Mobile, Accessories and Smart Devices/Smartphones",
+                            "imageSrc": "",
+                            "imei": "990111862471854",
+                            "type": "product",
+                            "modelNo": "Xperia XZ2",
+                            "orderedDate": "16/11/2018",
+                            "deliveryDate": "18/11/2018",
+                            "price": "74,990",
+                            "discount": "1,000",
+                            "amountPaid": "73,990",
+                            "warrantyPeriod": "1year",
+                            "extendedWarranty": "none",
+                            "exchangable": "yes",
+                            "specifications": {
+                                "frontCamera": "5MP",
+                                "mainCamera": "19MP Motion Eye camera",
+                                "display": "5.7', 18:9 Full HD+ (1080 x 2160) HDR display"
+                            },
+                            "features": {
+                                "fingerPrintsensor": "Fast and secure unlock"
+                            },
+                            "insurance": {
+                                "existenceYear": "16/11/2019-16/11/2020",
+                                "nomineeName": "Sony-U",
+                                "sumInsured": ""
+                            }
+                        },
+                        {
+                            "name": "Xperia R1",
+                            "serialNo": "019",
+                            "orderNo": "19",
+                            "path": "Mobile, Accessories and Smart Devices/Smartphones",
+                            "imageSrc": "",
+                            "imei": "994444862471854",
+                            "type": "product",
+                            "modelNo": "Xperia R1",
+                            "orderedDate": "10/12/2019",
+                            "deliveryDate": "14/12/2019",
+                            "price": "8,990",
+                            "discount": "none",
+                            "amountPaid": "8,990",
+                            "warrantyPeriod": "1 year",
+                            "extendedWarranty": "1 year",
+                            "exchangable": "yes",
+                            "specifications": {
+                                "processor": "snapdragon 430",
+                                "display": "13.2 cm HD Display",
+                                "camera": "13 MP camera / 8 MP front camera"
+                            },
+                            "insurance": {
+                                "existenceYear": "10/12/2019-10/12/2020",
+                                "nomineeName": "Sony-G",
+                                "sumInsured": ""
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Accessories",
+                    "children": [
+                        {
+                            "name": "Stereo Bluetooth Headset SBH24 ",
+                            "serialNo": "020",
+                            "orderNo": "20",
+                            "path": "Mobile, Accessories and Smart Devices/Accessories",
+                            "imageSrc": "",
+                            "imei": "997711862234854",
+                            "type": "accessory",
+                            "modelNo": "SBH24",
+                            "orderedDate": "19/5/2019",
+                            "deliveryDate": "20/5/2019",
+                            "price": "3,590",
+                            "discount": "none",
+                            "amountPaid": "3,590",
+                            "warrantyPeriod": "1year",
+                            "extendedWarranty": "1year",
+                            "exchangable": "no",
+                            "specifications": {
+                                "dimensions": "33.5 x 32.5 x 13.7 mm",
+                                "weight": "15g",
+                                "headphoneJack": "3.5mm"
+                            },
+                            "features": {
+                                "nfc": "Easy one-touch NFC pairing",
+                                "usb": "Earphone and USB Type-C cable included"
+                            },
+                            "insurance": {
+                                "existenceYear": "19/5/2019-19/5/2022",
+                                "nomineeName": "Sony-Y",
+                                "sumInsured": ""
+                            }
+                        },
+                        {
+                            "name": "Bluetooth® Headset with Speaker SBH56",
+                            "serialNo": "021",
+                            "orderNo": "21",
+                            "path": "Mobile, Accessories and Smart Devices/Accessories",
+                            "imageSrc": "",
+                            "imei": "991200000071854",
+                            "type": "accessory",
+                            "modelNo": "ACC-TRDCJ",
+                            "orderedDate": "2/10/2019",
+                            "deliveryDate": "12/10/2019",
+                            "price": "5,990",
+                            "discount": "100",
+                            "amountPaid": "5,890",
+                            "warrantyPeriod": "2years",
+                            "extendedWarranty": "none",
+                            "exchangable": "yes",
+                            "specifications": {
+                                "touch": "Connect easily to your phone with NFC touch",
+                                "cable": "USB Type-C™ cable included"
+                            },
+                            "features": {
+                                "calls": "Wireless convenience",
+                                "camera": "Camera remote shutter button"
+                            },
+                            "insurance": {
+                                "existenceYear": "3/10/2019-3/10/2022",
+                                "nomineeName": "Sony-R",
+                                "sumInsured": ""
+                            }
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Video Cameras",
+            "children": [
+                {
+                    "name": "Camcorders",
+                    "children": [
+                        {
+                            "name": "FDR-AX700 4K HDR Camcorder",
+                            "serialNo": "022",
+                            "orderNo": "22",
+                            "path": "Video Cameras/Camcorders",
+                            "imageSrc": "",
+                            "imei": "990230877777774",
+                            "type": "product",
+                            "modelNo": "FDR-AX700",
+                            "orderedDate": "16/12/2016",
+                            "deliveryDate": "17/12/2016",
+                            "price": "110,490",
+                            "discount": "1,000",
+                            "amountPaid": "109,490",
+                            "warrantyPeriod": "2years",
+                            "extendedWarranty": "1year",
+                            "exchangable": "yes",
+                            "specifications": {
+                                "sensorType": "1.0-type (13.2 mm x 8.8 mm) stacked Exmor RS CMOS sensor",
+                                "lensType": "ZEISS Vario-Sonnar T",
+                                "opticalZoom": "12x"
+                            },
+                            "features": {
+                                "imageQuality": "Enhanced BIONZ X image processing engine",
+                                "OLED": "High-precision OLED Tru-Finder"
+                            },
+                            "insurance": {
+                                "existenceYear": "16/12/2016-16/12/2018",
+                                "nomineeName": "Sony-Z",
+                                "sumInsured": ""
+                            }
+                        },
+                        {
+                            "name": "NP-FV100A V-series Rechargeable Battery Pack",
+                            "serialNo": "023",
+                            "orderNo": "23",
+                            "path": "Video Cameras/Camcorders",
+                            "imageSrc": "",
+                            "imei": "999999862400854",
+                            "type": "accessory",
+                            "modelNo": "NP-FV100A",
+                            "orderedDate": "11/12/2019",
+                            "deliveryDate": "14/12/2019",
+                            "price": "10,090",
+                            "discount": "none",
+                            "amountPaid": "10,090",
+                            "warrantyPeriod": "5years",
+                            "extendedWarranty": "1 year",
+                            "exchangable": "no",
+                            "specifications": {
+                                "Capacity": "25 Wh (3,410 mAh)",
+                                "Mean output voltage": "7.4 V",
+                                "Dimensions (approx.)": "W 31.8 mm x H 55.5 mm x D 45.1 mm (1 5/16 x 2 1/4 x 1 13/16)",
+                                "Weight (approx.)": "145 g (5.2 oz)"
+                            },
+                            "insurance": {
+                                "existenceYear": "none",
+                                "nomineeName": "none",
+                                "sumInsured": ""
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Action Cameras",
+                    "children": [
+                        {
+                            "name": "FDR-X3000 4K Action Cam with Wi-Fi & GPS",
+                            "serialNo": "024",
+                            "orderNo": "24",
+                            "path": "Video Cameras/Action Cameras",
+                            "imageSrc": "",
+                            "imei": "918888862234854",
+                            "type": "product",
+                            "modelNo": "FDR-X3000",
+                            "orderedDate": "26/3/2019",
+                            "deliveryDate": "9/4/2019",
+                            "price": "40,490",
+                            "discount": "none",
+                            "amountPaid": "40,490",
+                            "warrantyPeriod": "2years",
+                            "extendedWarranty": "none",
+                            "exchangable": "no",
+                            "specifications": {
+                                "lensType": "ZEISS Tessar",
+                                "sensorType": "7.20 mm (1/2.5 type) back-illuminated Exmor R CMOS Sensor",
+                                "waterproof": "Up to 60 m with supplied Underwater Housing (MPK-UWH1)"
+                            },
+                            "insurance": {
+                                "existenceYear": "26/3/2019-26/3/2023",
+                                "nomineeName": "Sony-J",
+                                "sumInsured": ""
+                            }
+                        }
+                    ]
+                },
+                {
+                    "name": "Professional Camcorders",
+                    "children": [
+                        {
+                            "name": "PXW-X500",
+                            "serialNo": "025",
+                            "orderNo": "25",
+                            "path": "Video Cameras/Professional Camcorders",
+                            "imageSrc": "",
+                            "imei": "991255552471554",
+                            "type": "product",
+                            "modelNo": "PXW-X500",
+                            "orderedDate": "7/5/2019",
+                            "deliveryDate": "8/5/2019",
+                            "price": "67,000",
+                            "discount": "none",
+                            "amountPaid": "67,000",
+                            "warrantyPeriod": "5years",
+                            "extendedWarranty": "1year",
+                            "exchangable": "yes",
+                            "specifications": {
+                                "Mass": "Approx. 2.0 kg (body only) ",
+                                "Dimensions (W x H x D)": "1158.9 x 245.2 x 247mm (body without protrusions)",
+                                "Lens Mount": "E-mount (lever lock type)"
+                            },
+                            "features": {
+                                "sensor": "4K Super 35 Exmor sensor"
+                            },
+                            "insurance": {
+                                "existenceYear": "none",
+                                "nomineeName": "none",
+                                "sumInsured": ""
+                            }
+                        },
+                        {
+                            "name": "PXW-FS7M2",
+                            "serialNo": "026",
+                            "orderNo": "26",
+                            "path": "Video Cameras/Professional Camcorders",
+                            "imageSrc": "",
+                            "imei": "991244552471554",
+                            "type": "product",
+                            "modelNo": "PXW-FS7M2",
+                            "orderedDate": "17/5/2019",
+                            "deliveryDate": "18/5/2019",
+                            "price": "73,000",
+                            "discount": "none",
+                            "amountPaid": "73,000",
+                            "warrantyPeriod": "5years",
+                            "extendedWarranty": "1year",
+                            "exchangable": "no",
+                            "specifications": {
+                                "camera": "Super 35/APS-C power zoom for 4K movies"
+                            },
+                            "insurance": {
+                                "existenceYear": "none",
+                                "nomineeName": "none",
+                                "sumInsured": ""
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
